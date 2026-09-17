@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta
+        name="description"
+        content="A continuous English vocabulary test."
+    >
+
+    <title>Vocabulary Test</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="topbar">
+        <div class="brand">
+            <div class="brand-mark">L</div>
+            <div>
+                <h1>Lexicon</h1>
+                <span>Vocabulary Test</span>
+            </div>
+        </div>
+
+        <button
+            class="theme-toggle"
+            id="themeToggle"
+            type="button"
+            aria-label="Toggle dark mode"
+        >
+            <span id="themeIcon">☾</span>
+        </button>
+    </header>
+
+
+    <main class="app">
+
+        <section class="stats">
+            <div class="stat">
+                <span class="stat-label">Question</span>
+                <strong>
+                    <span id="currentQuestion">1</span>
+                    <span class="muted">/</span>
+                    <span id="totalQuestions">—</span>
+                </strong>
+            </div>
+
+            <div class="stat">
+                <span class="stat-label">Score</span>
+                <strong id="score">0</strong>
+            </div>
+
+            <div class="stat">
+                <span class="stat-label">Accuracy</span>
+                <strong id="accuracy">0%</strong>
+            </div>
+
+            <div class="stat">
+                <span class="stat-label">Streak</span>
+                <strong id="streak">0</strong>
+            </div>
+        </section>
+
+
+        <div class="progress">
+            <div class="progress-bar" id="progressBar"></div>
+        </div>
+
+
+        <section class="question-card" id="questionCard">
+
+            <div class="question-meta">
+                <span id="questionNumber">QUESTION 01</span>
+            </div>
+
+            <h2 id="questionText">
+                Loading question...
+            </h2>
+
+            <div
+                class="options"
+                id="options"
+                role="group"
+                aria-label="Answer options"
+            >
+            </div>
+
+            <div
+                class="explanation"
+                id="explanation"
+                hidden
+            >
+                <div class="explanation-icon">i</div>
+
+                <div>
+                    <strong>Explanation</strong>
+                    <p id="explanationText"></p>
+                </div>
+            </div>
+
+        </section>
+
+
+        <div class="controls">
+            <button
+                class="next-button"
+                id="nextButton"
+                type="button"
+                disabled
+            >
+                Next question
+                <span>→</span>
+            </button>
+        </div>
+
+    </main>
+
+
+    <footer>
+        Developed with 💛 by <span>Srijan</span>
+    </footer>
+
+
+    <script src="script.js"></script>
+</body>
+</html>

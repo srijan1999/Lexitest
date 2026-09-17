@@ -1,0 +1,391 @@
+[
+  {
+    "question": "She was appointed ___ head of the research committee after the previous chair resigned.",
+    "options": ["the", "a", "an", "No Article"],
+    "answer": 3,
+    "explanation": "No article is used before a noun functioning as a unique official position after verbs such as 'appoint' when the position is held by one person."
+  },
+  {
+    "question": "The researchers arrived ___ the conclusion that the results had been affected by external variables.",
+    "options": ["at", "on", "in", "to"],
+    "answer": 0,
+    "explanation": "The correct collocation is 'arrive at a conclusion'."
+  },
+  {
+    "question": "There has been ___ unprecedented increase in demand for renewable energy over the past decade.",
+    "options": ["the", "an", "a", "—"],
+    "answer": 1,
+    "explanation": "'Unprecedented' begins with a vowel sound, so 'an' is required."
+  },
+  {
+    "question": "The report provides valuable insight ___ the factors influencing consumer behaviour.",
+    "options": ["about", "for", "into", "on"],
+    "answer": 2,
+    "explanation": "The standard expression is 'insight into something'."
+  },
+  {
+    "question": "___ information provided by the witness was insufficient to establish the sequence of events.",
+    "options": ["The", "An", "A", "—"],
+    "answer": 0,
+    "explanation": "'Information' is uncountable, and 'the' is appropriate because specific information is being referred to."
+  },
+  {
+    "question": "The conference was held ___ accordance with the guidelines issued by the ministry.",
+    "options": ["on", "at", "by", "in"],
+    "answer": 3,
+    "explanation": "The fixed expression is 'in accordance with'."
+  },
+  {
+    "question": "The committee reached ___ unanimous decision after several hours of deliberation.",
+    "options": ["an", "a", "the", "—"],
+    "answer": 1,
+    "explanation": "'Unanimous' begins with the consonant sound /juː/, so 'a' is correct."
+  },
+  {
+    "question": "The findings should be interpreted ___ the context of previous studies.",
+    "options": ["within", "at", "on", "by"],
+    "answer": 0,
+    "explanation": "'Within the context of' is the appropriate prepositional phrase."
+  },
+  {
+    "question": "The museum houses ___ collection of manuscripts dating back to the eighteenth century.",
+    "options": ["an", "the", "a", "—"],
+    "answer": 2,
+    "explanation": "'Collection' is a singular countable noun introduced for the first time, so 'a' is required."
+  },
+  {
+    "question": "The policy was introduced ___ response to growing concerns about data privacy.",
+    "options": ["with", "at", "for", "in"],
+    "answer": 3,
+    "explanation": "The fixed expression is 'in response to'."
+  },
+  {
+    "question": "The university has established several new laboratories to facilitate ___ scientific research.",
+    "options": ["the", "—", "a", "an"],
+    "answer": 1,
+    "explanation": "In this general sense, 'scientific research' is an uncountable abstract noun and takes no article."
+  },
+  {
+    "question": "The results were consistent ___ those reported in earlier investigations.",
+    "options": ["with", "to", "for", "by"],
+    "answer": 0,
+    "explanation": "The correct collocation is 'consistent with'."
+  },
+  {
+    "question": "The number of applicants has increased significantly, but the proportion of successful candidates ___ remained stable.",
+    "options": ["have", "are", "has", "were"],
+    "answer": 2,
+    "explanation": "The head noun is singular 'proportion', so the singular verb 'has' is required."
+  },
+  {
+    "question": "Neither the manager nor the senior analysts ___ willing to approve the revised proposal.",
+    "options": ["was", "is", "has been", "were"],
+    "answer": 3,
+    "explanation": "With 'neither...nor', the verb agrees with the nearer subject, 'senior analysts', which is plural."
+  },
+  {
+    "question": "The equipment in the laboratories ___ inspected every six months.",
+    "options": ["is", "are", "have", "were"],
+    "answer": 0,
+    "explanation": "'Equipment' is an uncountable noun and takes a singular verb."
+  },
+  {
+    "question": "The company's rapid expansion has created several new ___ for local residents.",
+    "options": ["opportunity", "opportunities", "opportunityes", "opportunites"],
+    "answer": 1,
+    "explanation": "The plural of 'opportunity' is 'opportunities'."
+  },
+  {
+    "question": "The government introduced a number of measures to address the shortage of skilled ___ .",
+    "options": ["personnel", "personnels", "personnel's", "person"],
+    "answer": 0,
+    "explanation": "'Personnel' is generally an uncountable collective noun referring to employees."
+  },
+  {
+    "question": "The board expressed its ___ about the long-term financial implications of the proposal.",
+    "options": ["concern", "concerns", "concerned", "concerning"],
+    "answer": 1,
+    "explanation": "'Concerns' is appropriate because the board has several reservations or areas of worry."
+  },
+  {
+    "question": "The evidence presented during the trial was regarded as highly ___ by the panel.",
+    "options": ["credibility", "credibly", "credible", "credence"],
+    "answer": 2,
+    "explanation": "A predicative adjective is needed after 'was regarded as'; 'credible' is correct."
+  },
+  {
+    "question": "The new regulations are considerably ___ than those they replaced.",
+    "options": ["more stringent", "most stringent", "stringently", "stringentest"],
+    "answer": 0,
+    "explanation": "A comparative adjective is required because two sets of regulations are being compared."
+  },
+  {
+    "question": "The researcher adopted a ___ approach that incorporated both quantitative and qualitative evidence.",
+    "options": ["comprehensively", "comprehensive", "comprehension", "comprehend"],
+    "answer": 1,
+    "explanation": "'Comprehensive' is the adjective modifying 'approach'."
+  },
+  {
+    "question": "The instructions were sufficiently ___ for participants to complete the task without assistance.",
+    "options": ["clarity", "clarifying", "clear", "clearly"],
+    "answer": 2,
+    "explanation": "After 'were sufficiently', an adjective is needed; 'clear' correctly describes the instructions."
+  },
+  {
+    "question": "The proposal is economically ___, provided that the projected revenue is achieved.",
+    "options": ["viable", "viability", "viably", "viabilize"],
+    "answer": 0,
+    "explanation": "'Viable' is the adjective required after the linking verb 'is'."
+  },
+  {
+    "question": "The two reports contain ___ information, despite being prepared independently.",
+    "options": ["remarkably", "remarkable", "remarkability", "remark"],
+    "answer": 1,
+    "explanation": "'Remarkable' is the adjective modifying 'information'."
+  },
+  {
+    "question": "The lecture was so ___ that several students requested additional reading materials.",
+    "options": ["stimulate", "stimulatingly", "stimulating", "stimulation"],
+    "answer": 2,
+    "explanation": "'Stimulating' describes something that generates interest or thought."
+  },
+  {
+    "question": "By the time the auditors arrived, the finance department ___ all the relevant documents.",
+    "options": ["had prepared", "has prepared", "prepares", "was preparing"],
+    "answer": 0,
+    "explanation": "The past perfect is used for an action completed before another past event."
+  },
+  {
+    "question": "The company ___ its environmental policy three times since 2020.",
+    "options": ["revised", "has revised", "had revised", "is revising"],
+    "answer": 1,
+    "explanation": "The present perfect is appropriate for an action occurring repeatedly from a past point up to the present."
+  },
+  {
+    "question": "When I spoke to the director yesterday, she ___ the proposal for several weeks.",
+    "options": ["has considered", "considers", "had been considering", "was considered"],
+    "answer": 2,
+    "explanation": "The past perfect continuous describes an ongoing activity before a specific past event."
+  },
+  {
+    "question": "If the researchers ___ the anomaly earlier, they might have prevented the error from affecting the results.",
+    "options": ["had detected", "detected", "have detected", "would detect"],
+    "answer": 0,
+    "explanation": "This is a third conditional construction: 'if + past perfect' followed by 'might have + past participle'."
+  },
+  {
+    "question": "By next September, the university ___ the new campus for more than two years.",
+    "options": ["will operate", "will have been operating", "has operated", "would operate"],
+    "answer": 1,
+    "explanation": "The future perfect continuous expresses an activity continuing up to a specified future point."
+  },
+  {
+    "question": "The survey results ___ to indicate a significant shift in public attitudes.",
+    "options": ["appears", "is appearing", "appear", "has appeared"],
+    "answer": 2,
+    "explanation": "'Results' is plural, so the plural verb 'appear' is required."
+  },
+  {
+    "question": "The committee ___ the matter when the chair unexpectedly interrupted the discussion.",
+    "options": ["was considering", "has considered", "had considered", "considers"],
+    "answer": 0,
+    "explanation": "The past continuous describes an action in progress when another past event occurred."
+  },
+  {
+    "question": "The author ___ several chapters before deciding to restructure the entire book.",
+    "options": ["rewrites", "has rewritten", "had rewritten", "is rewriting"],
+    "answer": 2,
+    "explanation": "The past perfect indicates that rewriting occurred before the later decision."
+  },
+  {
+    "question": "I ___ this issue with the department head twice this week, but no action has been taken.",
+    "options": ["discussed", "have discussed", "had discussed", "was discussing"],
+    "answer": 1,
+    "explanation": "The present perfect is suitable because the period 'this week' is not necessarily finished."
+  },
+  {
+    "question": "The company ___ losses for three consecutive quarters before it finally closed the branch.",
+    "options": ["had been reporting", "has reported", "reports", "is reporting"],
+    "answer": 0,
+    "explanation": "The past perfect continuous emphasizes an ongoing situation before a later past event."
+  },
+  {
+    "question": "Applicants ___ submit two references before their applications can be considered.",
+    "options": ["might", "could", "must", "would"],
+    "answer": 2,
+    "explanation": "'Must' expresses a requirement or obligation."
+  },
+  {
+    "question": "You ___ have informed the committee before making such a significant alteration to the project.",
+    "options": ["should", "may", "can", "would"],
+    "answer": 0,
+    "explanation": "'Should have' expresses criticism or indicates that an action was advisable but was not taken."
+  },
+  {
+    "question": "The figures are inconsistent; the researchers ___ have entered the data incorrectly.",
+    "options": ["must", "can", "ought", "would"],
+    "answer": 0,
+    "explanation": "'Must have' expresses a strong logical deduction about a past event."
+  },
+  {
+    "question": "Visitors ___ not enter the laboratory without protective clothing.",
+    "options": ["could", "must", "might", "would"],
+    "answer": 1,
+    "explanation": "'Must not' expresses prohibition."
+  },
+  {
+    "question": "The results are surprising, but they ___ be explained by a previously unidentified variable.",
+    "options": ["must", "need", "might", "shall"],
+    "answer": 2,
+    "explanation": "'Might' expresses possibility."
+  },
+  {
+    "question": "You ___ have misunderstood the instructions; the deadline is next Friday, not tomorrow.",
+    "options": ["must", "should", "can", "will"],
+    "answer": 0,
+    "explanation": "'Must have misunderstood' expresses a strong deduction about a past misunderstanding."
+  },
+  {
+    "question": "Employees ___ work remotely on Fridays if their responsibilities permit it.",
+    "options": ["may", "must", "ought", "shall"],
+    "answer": 0,
+    "explanation": "'May' expresses permission or an allowed possibility."
+  },
+  {
+    "question": "The report ___ have been completed by now, given that the team began working on it six months ago.",
+    "options": ["should", "can", "might", "would"],
+    "answer": 0,
+    "explanation": "'Should have been completed' expresses an expectation about a past or present result."
+  },
+  {
+    "question": "The researcher ___ have overlooked the discrepancy because it appears clearly in the original dataset.",
+    "options": ["must", "cannot", "should", "would"],
+    "answer": 1,
+    "explanation": "'Cannot have overlooked' indicates that the speaker considers the possibility highly unlikely or logically impossible."
+  },
+  {
+    "question": "The project ___ have succeeded without additional funding from external investors.",
+    "options": ["would not", "could", "may", "must"],
+    "answer": 0,
+    "explanation": "'Would not have succeeded' expresses the hypothetical consequence of a condition that did not occur."
+  },
+  {
+    "question": "The study was carefully designed; nevertheless, ___ its findings cannot be generalized to the wider population.",
+    "options": ["and", "so", "yet", "because"],
+    "answer": 2,
+    "explanation": "'Yet' introduces a contrast between the careful design and the limitation."
+  },
+  {
+    "question": "The sample size was increased ___ the researchers could obtain more statistically reliable results.",
+    "options": ["so that", "although", "whereas", "unless"],
+    "answer": 0,
+    "explanation": "'So that' introduces the purpose of increasing the sample size."
+  },
+  {
+    "question": "___ the initial results were promising, the researchers decided to conduct further trials.",
+    "options": ["Because", "Although", "Therefore", "Unless"],
+    "answer": 1,
+    "explanation": "'Although' introduces a concessive clause."
+  },
+  {
+    "question": "The policy will remain ineffective ___ sufficient resources are allocated to its implementation.",
+    "options": ["if", "provided that", "unless", "whereas"],
+    "answer": 2,
+    "explanation": "'Unless' means 'if not' and correctly expresses the necessary condition."
+  },
+  {
+    "question": "The researchers used a larger sample ___ the original study had produced inconclusive findings.",
+    "options": ["because", "whereas", "despite", "unless"],
+    "answer": 0,
+    "explanation": "'Because' introduces the reason for using a larger sample."
+  },
+  {
+    "question": "The first proposal emphasizes cost reduction, ___ the second focuses on improving service quality.",
+    "options": ["because", "whereas", "therefore", "unless"],
+    "answer": 1,
+    "explanation": "'Whereas' contrasts two different approaches."
+  },
+  {
+    "question": "The experiment was repeated several times; ___, the researchers obtained inconsistent results.",
+    "options": ["therefore", "moreover", "nevertheless", "because"],
+    "answer": 2,
+    "explanation": "'Nevertheless' indicates an unexpected contrast with the preceding statement."
+  },
+  {
+    "question": "The company reduced its operating costs, ___ it could offer more competitive prices.",
+    "options": ["so that", "although", "whereas", "unless"],
+    "answer": 0,
+    "explanation": "'So that' expresses the purpose or intended result."
+  },
+  {
+    "question": "The policy is unlikely to succeed ___ it receives substantial support from local authorities.",
+    "options": ["although", "unless", "whereas", "because"],
+    "answer": 1,
+    "explanation": "'Unless' introduces the condition necessary for the policy to succeed."
+  },
+  {
+    "question": "The article was rejected ___ the methodology was considered insufficiently rigorous.",
+    "options": ["although", "whereas", "because", "nevertheless"],
+    "answer": 2,
+    "explanation": "'Because' provides the reason for the rejection."
+  },
+  {
+    "question": "The original manuscript was ___ during the restoration process.",
+    "options": ["carefully preserved", "carefully preserving", "careful preserved", "carefully preserve"],
+    "answer": 0,
+    "explanation": "The passive construction requires 'was + past participle': 'was carefully preserved'."
+  },
+  {
+    "question": "A comprehensive review of the evidence ___ by an independent panel last year.",
+    "options": ["conducted", "was conducted", "has conducting", "was conducting"],
+    "answer": 1,
+    "explanation": "The passive voice is required because the review received the action."
+  },
+  {
+    "question": "The revised regulations are expected ___ by all participating institutions.",
+    "options": ["to implement", "to be implemented", "implementing", "to have implement"],
+    "answer": 1,
+    "explanation": "The regulations receive the action, so the passive infinitive 'to be implemented' is required."
+  },
+  {
+    "question": "The researchers claim that the results ___ independently by three laboratories.",
+    "options": ["verified", "have verified", "were verified", "were verifying"],
+    "answer": 2,
+    "explanation": "The passive construction 'were verified' is needed because the results received the action."
+  },
+  {
+    "question": "The committee will publish the findings after it ___ the final data.",
+    "options": ["has analyzed", "will have analyzed", "analyzing", "had analyzed"],
+    "answer": 0,
+    "explanation": "After a future time clause, the present perfect can indicate completion before the future main-clause action."
+  },
+  {
+    "question": "The new bridge ___ by the end of next year, according to the current construction schedule.",
+    "options": ["will complete", "will have been completed", "has completed", "will be completing"],
+    "answer": 1,
+    "explanation": "The future perfect passive indicates an action that will be completed by a specified future time."
+  },
+  {
+    "question": "The documents ___ to the wrong department before the error was discovered.",
+    "options": ["had been sent", "have sent", "were sending", "had sent"],
+    "answer": 0,
+    "explanation": "The past perfect passive indicates that the documents had received the action before another past event."
+  },
+  {
+    "question": "The proposal ___ by the board before it was circulated to shareholders.",
+    "options": ["approved", "had been approved", "has approving", "was approving"],
+    "answer": 1,
+    "explanation": "The proposal was approved before another past event, requiring the past perfect passive."
+  },
+  {
+    "question": "The consultant said, 'I will submit the report tomorrow.' Which is the correct reported version?",
+    "options": [
+      "The consultant said that I would submit the report tomorrow.",
+      "The consultant said that she would submit the report the following day.",
+      "The consultant said that she will submit the report the following day.",
+      "The consultant said that she submitted the report tomorrow."
+    ],
+    "answer": 1,
+    "explanation": "In reported speech, 'I' becomes 'she', 'will' becomes 'would', and 'tomorrow' becomes 'the following day'."
+  }
+]
