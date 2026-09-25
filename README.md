@@ -12,3 +12,6 @@ There is an explanation section where the explanation for the correct answer is 
 
 I'll probably make a native android app for this sometime soon.
 ✌️
+------------------------------------------------------------------------------
+Added a __prompt.txt__ 
+Just copy and paste the prompt to generate questions.
