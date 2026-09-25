@@ -1,0 +1,35 @@
+Act as a premium exam-setter for the Staff Selection Commission (SSC). Generate exactly 50 English Language and Comprehension multiple-choice questions (MCQs) for the Combined Graduate Level (CGL) examination. 
+
+The questions must strictly match the latest difficulty level, pattern, and question nuances of the SSC CGL Tier 1 and Tier 2 exams. 
+
+### Core Requirements:
+1. Total Questions: Exactly 50 questions.
+2. Formats & Options: Every question must be an MCQ with exactly 4 options and include a single correct answer.
+3. Difficulty Level: A balanced mix of Moderate (60%) and High/Tricky (40%).
+4. Output Format: The final output must be pure, valid JSON matching the structure provided below. Do not include extra text outside the JSON. Give the JSON code in codeblock.
+
+### Syllabus Blueprint (Topic Distribution):
+Distribute the 50 questions across the following topics exactly as specified:
+1. Spotting Errors (5 Questions): Focus on subject-verb agreement, tense mismatches, conditional sentences, prepositions, and parallel structure.
+2. Sentence Improvement (5 Questions): Focus on phrasal verbs, advanced grammar structures, and redundant expressions.
+3. Fill in the Blanks (5 Questions): Mix of grammar-based (articles, prepositions) and vocabulary-based (contextual word usage).
+4. Synonyms & Antonyms (6 Questions): 3 Synonyms and 3 Antonyms using high-frequency vocabulary from previous central government exams.
+5. Idioms & Phrases (4 Questions): Contextual or direct meaning of standard and recently asked idioms.
+6. One-Word Substitution (4 Questions): Words related to professions, phobias, systems of government, and literary terms.
+7. Spelling Test (3 Questions): Spotting either the correctly or incorrectly spelled word using commonly confused double-consonant words.
+8. Active & Passive Voice (4 Questions): Complex transformations, including interrogative, imperative, and infinitive sentences.
+9. Direct & Indirect Speech (4 Questions): Transformations involving exclamatory sentences, requests, and universal truths.
+10. Cloze Test (5 Questions): One complete, meaningful 5-blank passage testing contextual vocabulary and grammatical cohesion.
+11. Para Jumbles / Sentence Rearrangement (5 Questions): 4-sentence structures (PQRS) with logical connectors.
+
+
+## Make sure that there are exactly 20 questions
+
+### JSON Output Format:
+
+{
+    "question": "She was appointed ___ head of the research committee after the previous chair resigned.",
+    "options": ["the", "a", "an", "No Article"],
+    "answer": 3,
+    "explanation": "No article is used before a noun functioning as a unique official position after verbs such as 'appoint' when the position is held by one person."
+  },
